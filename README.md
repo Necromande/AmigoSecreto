@@ -22,6 +22,9 @@ Organize sorteios de amigo secreto de forma prática, segura e divertida! Ideal 
 - Git & GitHub  
 
 ---
+## 🛡️ Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 📦 Instalação
 # 1️⃣ Cria um fork do repositório no GitHub (feito pelo navegador)
