@@ -26,7 +26,19 @@ Organize sorteios de amigo secreto de forma prática, segura e divertida! Ideal 
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+# Como contribuir
+
+Obrigado por querer contribuir com este projeto! Aqui estão algumas diretrizes:
+
+- Faça um fork do projeto
+- Crie uma branch com sua melhoria: `git checkout -b minha-melhoria`
+- Faça o commit das mudanças: `git commit -m 'Minha melhoria'`
+- Envie o pull request
+
+Sinta-se à vontade para abrir issues com sugestões ou problemas. 🚀
+
 ## 📦 Instalação
+
 # 1️⃣ Cria um fork do repositório no GitHub (feito pelo navegador)
 # Isso cria uma cópia do repositório na sua conta
 
