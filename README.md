@@ -12,7 +12,6 @@ Uma aplicação web divertida e intuitiva para organizar sorteios de amigo secre
 ## 💡 Tecnologias
 
 - HTML5 / CSS3 / JavaScript
-- [Framework usado, se tiver]
 - Git & GitHub
 - [Outras libs ou ferramentas]
 
