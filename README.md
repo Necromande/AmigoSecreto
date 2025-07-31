@@ -24,6 +24,24 @@ Organize sorteios de amigo secreto de forma prática, segura e divertida! Ideal 
 ---
 
 ## 📦 Instalação
+# 1️⃣ Cria um fork do repositório no GitHub (feito pelo navegador)
+# Isso cria uma cópia do repositório na sua conta
+
+# 2️⃣ Clona o fork para sua máquina
+git clone https://github.com/seu-usuario/AmigoSecreto.git
+cd AmigoSecreto
+
+# 3️⃣ Cria uma nova branch para sua funcionalidade
+git checkout -b feature/nova-funcionalidade
+
+# 4️⃣ Faz alterações no código e salva os arquivos
+
+# 5️⃣ Adiciona e comita as mudanças
+git add .
+git commit -m "Adiciona nova funcionalidade"
+
+# 6️⃣ Envia a branch para seu repositório no GitHub
+git push origin feature/nova-funcionalidade
 
 ### Requisitos:
 
