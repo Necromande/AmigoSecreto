@@ -3,22 +3,23 @@
 Organize sorteios de amigo secreto de forma prática, segura e divertida! Ideal para confraternizações entre amigos, família ou colegas de trabalho.
 
 ---
+
 ## 🚀 Funcionalidades
 
-- ✨ Cadastro de participantes
-- 🔒 Sorteio automático e sigiloso
-- 📱 Interface simples e responsiva
-- 📤 Compartilhamento do resultado com os participantes
-- 🎨 Visual agradável e intuitivo
+- ✨ Cadastro de participantes  
+- 🔒 Sorteio automático e sigiloso  
+- 📱 Interface simples e responsiva  
+- 📤 Compartilhamento do resultado com os participantes  
+- 🎨 Visual agradável e intuitivo  
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git & GitHub  
 
 ---
 
@@ -26,11 +27,12 @@ Organize sorteios de amigo secreto de forma prática, segura e divertida! Ideal 
 
 ### Requisitos:
 
-- Node.js instalado (versão recomendada: 18+)
-- Git instalado
-- Editor de código (VS Code ou similar)
+- Node.js instalado (versão recomendada: 18+)  
+- Git instalado  
+- Editor de código (VS Code ou similar)  
 
-### Via HTTPS (recomendado para qualquer pessoa):
+### Via HTTPS:
+
 ```bash
 git clone https://github.com/Necromande/AmigoSecreto.git
 cd AmigoSecreto
