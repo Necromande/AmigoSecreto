@@ -1,16 +1,38 @@
 # 🎁 Amigo Secreto
 
-Uma aplicação web divertida e intuitiva para organizar sorteios de amigo secreto com estilo! Ideal para festas, confraternizações e aquele caos organizado de fim de ano.
+Organize sorteios de amigo secreto de forma prática, segura e divertida! Ideal para confraternizações entre amigos, família ou colegas de trabalho.
+
+---
 
 ## 🚀 Funcionalidades
 
-- Cadastro de participantes
-- Sorteio automático e sigiloso
-- Interface amigável e responsiva
-- Compartilhamento de resultados
+- ✨ Cadastro de participantes
+- 🔒 Sorteio automático e sigiloso
+- 📱 Interface simples e responsiva
+- 📤 Compartilhamento do resultado com os participantes
+- 🎨 Visual agradável e intuitivo
 
-## 💡 Tecnologias
+---
 
-- HTML5 / CSS3 / JavaScript
+## 🛠️ Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
 - Git & GitHub
-- [Outras libs ou ferramentas]
+
+---
+
+## 📦 Instalação
+
+### Requisitos:
+
+- Node.js instalado (versão recomendada: 18+)
+- Git instalado
+- Editor de código (VS Code ou similar)
+
+### Via HTTPS (recomendado para qualquer pessoa):
+```bash
+git clone https://github.com/Necromande/AmigoSecreto.git
+cd AmigoSecreto
+npm install
