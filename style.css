@@ -160,3 +160,22 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+.texto-sorteado {
+  font-size: 20px;
+  color: #4CAF50;
+  font-weight: bold;
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 15px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease;
+  text-transform: uppercase;
+}
+
+.texto-sorteado:hover {
+  transform: scale(1.05);
+}
+.texto-sorteado:empty {
+  display: none;
+}
