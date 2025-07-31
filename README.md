@@ -3,6 +3,14 @@
 Organize sorteios de amigo secreto de forma prática, segura e divertida! Ideal para confraternizações entre amigos, família ou colegas de trabalho.
 
 ---
+## Índice
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias](#tecnologias-utilizadas)
+- [Instalação](#instalação)
+- [Como usar](#como-usar)
+- [Preview](#preview)
+- [Contribuições](#contribuições)
+- [Licença](#licença)
 
 ## 🚀 Funcionalidades
 
