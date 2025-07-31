@@ -3,6 +3,7 @@
 Organize sorteios de amigo secreto de forma prática, segura e divertida! Ideal para confraternizações entre amigos, família ou colegas de trabalho.
 
 ---
+Demostração aqui: https://amigo-secreto-iota-two.vercel.app/
 
 ## 🚀 Funcionalidades
 
